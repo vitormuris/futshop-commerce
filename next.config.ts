@@ -12,6 +12,7 @@ export default {
         hostname: 'cdn.shopify.com',
         pathname: '/s/files/**'
       }
-    ]
+    ],
+    domains: ['images.unsplash.com', 'i.imgur.com']
   }
 };
